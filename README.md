@@ -27,3 +27,4 @@ Demonstrates integration of **Machine Learning with a Python-based web backend**
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+https://emotion-detection-web-app-s9jytew7ofbuvrcjgrolyu.streamlit.app/
